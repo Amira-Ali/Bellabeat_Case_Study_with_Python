@@ -32,4 +32,4 @@ Analysis of Fitbit smart device data to uncover consumer behavior patterns and g
 ---
 
 ## 📄 View Full Analysis
-[Live Report](your-github-pages-link-here)
+[Live Report](https://amira-ali.github.io/Bellabeat_Case_Study_with_Python/)
